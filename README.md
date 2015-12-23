@@ -1,2 +1,2 @@
-# temporeal
-A simple android maps project, for my personal learning.
+# Tempo Real
+A simple android maps project.
